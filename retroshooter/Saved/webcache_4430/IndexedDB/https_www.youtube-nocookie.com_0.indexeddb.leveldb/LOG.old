@@ -1,6 +1,15 @@
-2024/08/31-18:19:47.350 1624 Creating DB C:/Users/Yassine/Desktop/retrogameMAin/retroshooter/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb since it was missing.
-2024/08/31-18:19:47.354 1624 Reusing MANIFEST C:/Users/Yassine/Desktop/retrogameMAin/retroshooter/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
-2024/08/31-18:20:47.930 23e8 Level-0 table #5: started
-2024/08/31-18:20:47.946 23e8 Level-0 table #5: 1167 bytes OK
-2024/08/31-18:20:47.947 23e8 Delete type=0 #3
-2024/08/31-18:20:47.947 23e8 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2024/09/09-09:14:44.255 3388 Reusing MANIFEST C:/Users/Yassine/Desktop/Github2/retrogame/retroshooter/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/09/09-09:14:44.256 3388 Recovering log #7
+2024/09/09-09:14:44.256 3388 Reusing old log C:/Users/Yassine/Desktop/Github2/retrogame/retroshooter/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/000007.log 
+2024/09/09-09:14:56.827 804 Level-0 table #11: started
+2024/09/09-09:14:56.836 804 Level-0 table #11: 547 bytes OK
+2024/09/09-09:14:56.838 804 Delete type=0 #7
+2024/09/09-09:14:56.838 804 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2024/09/09-09:14:56.838 804 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01\x16\x00y\x00t\x00-\x00i\x00d\x00b\x00-\x00t\x00e\x00s\x00t\x00-\x00d\x00o\x00-\x00n\x00o\x00t\x00-\x00u\x00s\x00e' @ 63 : 1
+2024/09/09-09:14:56.838 804 Compacting 1@1 + 1@2 files
+2024/09/09-09:14:56.848 804 Generated table #12@1: 17 keys, 515 bytes
+2024/09/09-09:14:56.848 804 Compacted 1@1 + 1@2 files => 515 bytes
+2024/09/09-09:14:56.850 804 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/09/09-09:14:56.850 804 Delete type=2 #5
+2024/09/09-09:14:56.850 804 Delete type=2 #11
+2024/09/09-09:14:56.850 804 Manual compaction at level-1 from '\x00\x01\x01\x02\x01\x16\x00y\x00t\x00-\x00i\x00d\x00b\x00-\x00t\x00e\x00s\x00t\x00-\x00d\x00o\x00-\x00n\x00o\x00t\x00-\x00u\x00s\x00e' @ 63 : 1 .. (end); will stop at (end)

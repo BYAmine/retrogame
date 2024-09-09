@@ -1,8 +1,8 @@
-2024/08/31-18:20:54.565 13b0 Reusing MANIFEST C:/Users/Yassine/Desktop/retrogameMAin/retroshooter/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
-2024/08/31-18:20:54.565 13b0 Recovering log #4
-2024/08/31-18:20:54.565 13b0 Reusing old log C:/Users/Yassine/Desktop/retrogameMAin/retroshooter/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/000004.log 
-2024/08/31-18:24:55.708 27a8 Level-0 table #8: started
-2024/08/31-18:24:55.708 27a8 Level-0 table #8: 0 bytes OK
-2024/08/31-18:24:55.714 27a8 Delete type=0 #4
-2024/08/31-18:24:55.714 27a8 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
-2024/08/31-18:24:55.714 27a8 Manual compaction at level-1 from (begin) .. (end); will stop at (end)
+2024/09/09-09:14:57.743 1c60 Reusing MANIFEST C:/Users/Yassine/Desktop/Github2/retrogame/retroshooter/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/09/09-09:14:57.743 1c60 Recovering log #10
+2024/09/09-09:14:57.743 1c60 Reusing old log C:/Users/Yassine/Desktop/Github2/retrogame/retroshooter/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/000010.log 
+2024/09/09-09:19:03.415 2378 Level-0 table #15: started
+2024/09/09-09:19:03.415 2378 Level-0 table #15: 0 bytes OK
+2024/09/09-09:19:03.420 2378 Delete type=0 #10
+2024/09/09-09:19:03.421 2378 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2024/09/09-09:19:03.421 2378 Manual compaction at level-1 from (begin) .. (end); will stop at (end)

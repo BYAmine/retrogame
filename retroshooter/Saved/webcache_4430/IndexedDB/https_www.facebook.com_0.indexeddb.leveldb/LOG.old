@@ -1,0 +1,6 @@
+2024/08/31-18:19:06.365 23e8 Creating DB C:/Users/Yassine/Desktop/retrogameMAin/retroshooter/Saved/webcache_4430\IndexedDB\https_www.facebook.com_0.indexeddb.leveldb since it was missing.
+2024/08/31-18:19:06.376 23e8 Reusing MANIFEST C:/Users/Yassine/Desktop/retrogameMAin/retroshooter/Saved/webcache_4430\IndexedDB\https_www.facebook.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/08/31-18:19:13.453 13b0 Level-0 table #5: started
+2024/08/31-18:19:13.461 13b0 Level-0 table #5: 6780 bytes OK
+2024/08/31-18:19:13.462 13b0 Delete type=0 #3
+2024/08/31-18:19:13.463 13b0 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

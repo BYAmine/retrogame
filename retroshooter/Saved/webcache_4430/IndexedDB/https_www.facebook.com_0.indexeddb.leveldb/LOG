@@ -1,6 +1,15 @@
-2024/08/31-18:19:06.365 23e8 Creating DB C:/Users/Yassine/Desktop/retrogameMAin/retroshooter/Saved/webcache_4430\IndexedDB\https_www.facebook.com_0.indexeddb.leveldb since it was missing.
-2024/08/31-18:19:06.376 23e8 Reusing MANIFEST C:/Users/Yassine/Desktop/retrogameMAin/retroshooter/Saved/webcache_4430\IndexedDB\https_www.facebook.com_0.indexeddb.leveldb/MANIFEST-000001
-2024/08/31-18:19:13.453 13b0 Level-0 table #5: started
-2024/08/31-18:19:13.461 13b0 Level-0 table #5: 6780 bytes OK
-2024/08/31-18:19:13.462 13b0 Delete type=0 #3
-2024/08/31-18:19:13.463 13b0 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2024/09/09-09:14:24.895 2654 Reusing MANIFEST C:/Users/Yassine/Desktop/Github2/retrogame/retroshooter/Saved/webcache_4430\IndexedDB\https_www.facebook.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/09/09-09:14:24.895 2654 Recovering log #4
+2024/09/09-09:14:24.895 2654 Reusing old log C:/Users/Yassine/Desktop/Github2/retrogame/retroshooter/Saved/webcache_4430\IndexedDB\https_www.facebook.com_0.indexeddb.leveldb/000004.log 
+2024/09/09-09:14:30.587 2654 Level-0 table #8: started
+2024/09/09-09:14:30.595 2654 Level-0 table #8: 52727 bytes OK
+2024/09/09-09:14:30.596 2654 Delete type=0 #4
+2024/09/09-09:14:30.597 2654 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2024/09/09-09:14:30.597 2654 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x08\x0b\x02\x01\x0b\x00s\x00c\x00h\x00e\x00m\x00a\x00_\x00h\x00a\x00s\x00h' @ 4121 : 1
+2024/09/09-09:14:30.597 2654 Compacting 1@1 + 1@2 files
+2024/09/09-09:14:30.601 2654 Generated table #9@1: 1265 keys, 23757 bytes
+2024/09/09-09:14:30.601 2654 Compacted 1@1 + 1@2 files => 23757 bytes
+2024/09/09-09:14:30.602 2654 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/09/09-09:14:30.603 2654 Delete type=2 #5
+2024/09/09-09:14:30.603 2654 Delete type=2 #8
+2024/09/09-09:14:30.603 2654 Manual compaction at level-1 from '\x00\x08\x0b\x02\x01\x0b\x00s\x00c\x00h\x00e\x00m\x00a\x00_\x00h\x00a\x00s\x00h' @ 4121 : 1 .. (end); will stop at (end)
