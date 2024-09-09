@@ -2838,3 +2838,17 @@ UnknownFunction []
 [2024.09.09-10.29.43:942][ 74]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2024.09.09-10.29.43:945][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
 [2024.09.09-10.29.44:046][ 75]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2024.09.09-10.33.30:964][579]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2024.09.09-10.33.31:011][579]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Levels/LevelOne_Auto3
+[2024.09.09-10.33.31:011][579]LogSavePackage: Moving '../../../../../../Users/Mega-PC/Desktop/project azizi/retrogame/retroshooter/Saved/LevelOne_Auto3A52F628C4D7A32C06AA69CB0FA13E5B8.tmp' to '../../../../../../Users/Mega-PC/Desktop/project azizi/retrogame/retroshooter/Saved/Autosaves/Game/Levels/LevelOne_Auto3.umap'
+[2024.09.09-10.33.31:013][579]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../Users/Mega-PC/Desktop/project azizi/retrogame/retroshooter/Saved/Autosaves/Game/Levels/LevelOne_Auto3.umap is in the /Temp path, will not scan.
+[2024.09.09-10.33.31:015][579]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/LevelOne' took 0.082
+[2024.09.09-10.33.31:015][579]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.082
+[2024.09.09-10.34.24:851][815]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.09.09-10.34.25:039][815]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2024.09.09-10.34.25:070][815]LogSavePackage: Moving output files for package: /Game/Levels/LevelOne
+[2024.09.09-10.34.25:071][815]LogSavePackage: Moving '../../../../../../Users/Mega-PC/Desktop/project azizi/retrogame/retroshooter/Saved/LevelOne4C21FB9B4C27D02D76AFF683DC108778.tmp' to '../../../../../../Users/Mega-PC/Desktop/project azizi/retrogame/retroshooter/Content/Levels/LevelOne.umap'
+[2024.09.09-10.34.25:087][815]LogFileHelpers: Saving map 'LevelOne' took 0.118
+[2024.09.09-10.34.25:108][815]LogFileHelpers: InternalPromptForCheckoutAndSave took 257 ms
+[2024.09.09-10.34.25:111][815]AssetCheck: New page: Asset Save: LevelOne
+[2024.09.09-10.34.25:111][815]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/LevelOne.LevelOne
